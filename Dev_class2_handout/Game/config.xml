@@ -3,7 +3,35 @@
 <!--config file for the game-->
 
 <config>
+  <app>
+    <g_name>XML Game title</g_name>
+  </app>
   
-  <g_name>XML Game title</g_name>
+  <window>
+    <fullscreen value = "false"/>
+    <borderless value = "false"/>
+    <resizable value = "true"/>
+    <fullscreen_window value = "false"/>
+    <title value = "replaceme title"/>
+    <width value = "1024"/>
+    <height value = "768"/>
+    <scale value = "1"/>
+  </window>
 
+  <render>
+  </render>
+
+  <input>
+  </input>
+
+  <textures>
+  </textures>
+
+  <audio>
+    <music>
+    </music>
+
+    <fx>
+    </fx>
+  </audio>
 </config>
